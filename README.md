@@ -41,5 +41,12 @@ I've been working on a dataset of intermediate colleges in Pakistan, and here's 
 **-Insights Generation:** 
   Leveraged Power BI's powerful features to generate valuable insights and present them in a visually appealing manner.
 
+  ![reportpage02](https://github.com/user-attachments/assets/5d7214fe-593d-4a36-bbea-6a1d634a255b)
+![report page 01](https://github.com/user-attachments/assets/2f6b6eba-2f80-4f16-9a04-d776b67107c8)
+![INTERMIDIATE_COLLAGE_EDA_PROJECT_1 drawio (1)](https://github.com/user-attachments/assets/b183a05c-75f4-49e2-8564-66316c4e4b22)
+
+
+  
+
 
 
